@@ -2,7 +2,7 @@
 layout: post
 title:  "Presentation: HTML for l33t people"
 date:   2018-01-05 08:00:00 +0200
-categories: presentations work
+categories: slides work
 ---
 
 There are many ways how to do same task. That's why it sometimes hard to notice
