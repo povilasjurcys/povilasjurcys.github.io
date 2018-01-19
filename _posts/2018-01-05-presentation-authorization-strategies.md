@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Presentation: Authorization strategies"
-date:   2018-01-05 08:00:00 +0200
+date:   2018-01-19 08:52:00 +0200
 categories: slides work
 ---
 
