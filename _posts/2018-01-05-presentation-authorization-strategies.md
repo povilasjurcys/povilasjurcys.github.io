@@ -7,4 +7,4 @@ categories: slides work
 
 Authentication is not always simple. And when you mix in sharding you end up with... presentation.
 
-You can find presentation slides here: [HTML for l33t people](https://povilasjurcys.github.io/presentations/work/20180119_authentication)
+You can find presentation slides here: [Authorization strategies](https://povilasjurcys.github.io/presentations/work/20180119_authentication)
