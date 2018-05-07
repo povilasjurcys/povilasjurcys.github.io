@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Presentation: Testing for ruby"
+title:  "Presentation: Testing with ruby"
 date:   2018-05-07 08:00:00 +0200
 categories: slides rubymasters
 ---

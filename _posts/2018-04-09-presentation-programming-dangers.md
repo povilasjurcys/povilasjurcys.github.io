@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Presentation: Programming dangers"
-date:   2018-01-05 08:00:00 +0200
+date:   2018-04-09 08:00:00 +0200
 categories: slides rubymasters
 ---
 
